@@ -70,7 +70,7 @@ Cliente → Routes → Middlewares → Controllers → Services → Models (Sequ
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/zergioM/jaguar-peak.git
+git clone https://github.com/zergioM/JAGUAR-PEAK-API
 ```
 
 Entrar al proyecto:
