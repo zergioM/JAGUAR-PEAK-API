@@ -1,5 +1,11 @@
 #  Jaguar Peak — API REST de Gestión Retail
 
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![Express](https://img.shields.io/badge/Express-4.x-black)
+![Sequelize](https://img.shields.io/badge/Sequelize-6.x-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.x-orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 API REST desarrollada con **Node.js**, **Express** y **Sequelize** para la gestión integral de un negocio retail: locales, productos, clientes, trabajadores e inventario.
 
 ---
